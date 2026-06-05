@@ -1,4 +1,4 @@
-# CPA Dashboard — KIM Affiliates
+# CPA Dashboard
 ## Документация по реализации
 
 ---
