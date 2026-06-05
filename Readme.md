@@ -1,4 +1,5 @@
 Ссылка на дашборд: https://datastudio.google.com/u/0/reporting/aba907c8-445f-4a0a-8f17-d5a48e88ad46/page/TmCzF
+<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/460072a0-e05a-473b-896e-d28d969b68d3" />
 
 
 # CPA Dashboard
