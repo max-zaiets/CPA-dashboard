@@ -1,6 +1,6 @@
-# RUS TRANSLATION BELOW
+## RUS TRANSLATION BELOW
 
-## CPA Traffic Performance Dashboard
+# CPA Traffic Performance Dashboard
 
 A multi-source ETL pipeline and BI dashboard that consolidates **CPA (Cost-Per-Action) affiliate traffic** from 5 different platforms into a single calculation model — surfacing revenue, cost, profit and **ROMI** per `Partner ID` and country.
 
